@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhuraMagda
+- 👋 Hi, I’m Magda.
 - 🌱 I’m currently learning HTML, CSS, JS.
 
 <!---
