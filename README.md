@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Magda. 
 - I want to become a Front-end Developer, 
-- I don't have any computer science background but that's not a problem for me, 
+- I have no computer science background but that's not a problem for me, 
 - I like coding,
 - I may not find a job in IT but that won't stop me from writing code.
 
