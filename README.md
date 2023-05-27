@@ -2,7 +2,7 @@
 - I want to become a Front-end Developer, 
 - I like coding.
 
-## 🌱 I’m currently learning HTML, CSS, JS, React.
+## 🌱 I’m currently learning HTML, CSS, JS, PHP, React.
 
 <!---
 AhuraMagda/AhuraMagda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
