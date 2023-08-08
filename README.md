@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Magda! 
-## I ❤️ FrontEnd
+# 👋 Hi, I’m Magda & I ❤️ FrontEnd
+
 
 ## My projects
 ### Websites
@@ -8,14 +8,14 @@
 - [https://patrykkostelecki.com/](https://patrykkostelecki.com/)
 - [https://www.tutajdonata.pl/](https://www.tutajdonata.pl/)
 
-### React
-- [AirBnb Clone - Scrimba](https://airbnb-clone-scrimba23.netlify.app/) 
+### React (fundamentals)
+- [Meme Generator - Scrimba](https://am-meme-generator.netlify.app/) 
+- [AirBnb Clone - Scrimba](https://airbnb-clone-scrimba23.netlify.app/)  
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://my-organizer-gcf.netlify.app/)
-- [Meme Generator - Scrimba](https://am-meme-generator.netlify.app/)
 
-### JavaScript
+### JavaScript (intermediate)
 - [Ip Adress Tracker - Frontend Mentor Intermediate](https://ahuramagda.github.io/FrontendMentor-lvl3-ip-address-tracker/)
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
-### TypeScript
+### TypeScript (fundamentals)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
