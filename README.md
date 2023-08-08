@@ -1,10 +1,21 @@
-# 👋 Hi, I’m Magda. 
-- I want to become a Front-end Developer, 
-- I like coding.
+# 👋 Hi, I’m Magda! 
+## I ❤️ FrontEnd
 
-## 🌱 I’m currently learning HTML, CSS, JS, React, TS.
+## My projects
+### Websites
+- [https://emanuelkulesza.pl/](https://emanuelkulesza.pl/)
+- [https://maxicom-pc.pl/](https://maxicom-pc.pl/)
+- [https://patrykkostelecki.com/](https://patrykkostelecki.com/)
+- [https://www.tutajdonata.pl/](https://www.tutajdonata.pl/)
 
-<!---
-AhuraMagda/AhuraMagda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### React
+- [AirBnb Clone - Scrimba](https://airbnb-clone-scrimba23.netlify.app/) 
+- [Personal Organizer - Girls Code Fun & Qualtrics](https://my-organizer-gcf.netlify.app/)
+- [Meme Generator - Scrimba](https://am-meme-generator.netlify.app/)
+
+### JavaScript
+- [Ip Adress Tracker - Frontend Mentor Intermediate](https://ahuramagda.github.io/FrontendMentor-lvl3-ip-address-tracker/)
+- [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
+
+### TypeScript
+- [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
