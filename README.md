@@ -19,3 +19,8 @@
 
 ### TypeScript (fundamentals)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
+
+
+## Find me on
+[CSSBattle](https://cssbattle.dev/player/ahuramagda)
+[Codewars](https://www.codewars.com/users/AhuraMagda)
