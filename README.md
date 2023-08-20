@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Magda & I ❤️ FrontEnd
+# 👋 Hi, I’m Magda & I ❤️ front end.
 
 
 ## My projects
