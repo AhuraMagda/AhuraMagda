@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Magda & I ❤️ front end.
+# Magda Lubaszka • Front-end Developer.
 
 
 ## My projects
