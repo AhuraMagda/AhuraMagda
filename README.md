@@ -1,4 +1,4 @@
-# Magda Lubaszka • Front-end Developer.
+# Magda Lubaszka • Front-end Developer
 
 
 ## My projects
