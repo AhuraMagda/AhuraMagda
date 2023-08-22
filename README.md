@@ -3,10 +3,10 @@
 
 ## My projects
 ### Websites
-- [https://emanuelkulesza.pl/](https://emanuelkulesza.pl/)
-- [https://maxicom-pc.pl/](https://maxicom-pc.pl/)
-- [https://patrykkostelecki.com/](https://patrykkostelecki.com/)
-- [https://www.tutajdonata.pl/](https://www.tutajdonata.pl/)
+- [https://emanuelkulesza.pl/](https://github.com/AhuraMagda/emanuelkulesza.pl)
+- [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
+- [https://patrykkostelecki.com/](https://github.com/AhuraMagda/patrykkostelecki.com)
+- [https://www.tutajdonata.pl/](https://github.com/AhuraMagda/tutajdonata.pl)
 
 ### JavaScript (intermediate)
 - [Ip Adress Tracker - Frontend Mentor Intermediate](https://ahuramagda.github.io/FrontendMentor-lvl3-ip-address-tracker/)
