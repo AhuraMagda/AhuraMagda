@@ -3,6 +3,7 @@
 
 ## My projects
 ### Websites
+- [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl)
 - [https://emanuelkulesza.pl/](https://github.com/AhuraMagda/emanuelkulesza.pl)
 - [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
 - [https://patrykkostelecki.com/](https://github.com/AhuraMagda/patrykkostelecki.com)
