@@ -14,9 +14,10 @@
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
 ### React (fundamentals)
-- [Meme Generator - Scrimba](https://am-meme-generator.netlify.app/) 
-- [AirBnb Clone - Scrimba](https://airbnb-clone-scrimba23.netlify.app/)  
-- [Personal Organizer - Girls Code Fun & Qualtrics](https://my-organizer-gcf.netlify.app/)
+- [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
+- [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
+- [AirBnb Clone - Scrimba](https://github.com/AhuraMagda/airbnb-clone)  
+- [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 
 ### TypeScript (fundamentals)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
