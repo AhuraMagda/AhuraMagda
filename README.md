@@ -9,17 +9,20 @@
 - [https://patrykkostelecki.com/](https://github.com/AhuraMagda/patrykkostelecki.com)
 - [https://www.tutajdonata.pl/](https://github.com/AhuraMagda/tutajdonata.pl)
 
-### JavaScript (intermediate)
+### JavaScript 
 - [Ip Adress Tracker - Frontend Mentor Intermediate](https://ahuramagda.github.io/FrontendMentor-lvl3-ip-address-tracker/)
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
-### React (fundamentals)
+### React 
+- [Pretty Dice - In progress... ](https://github.com/AhuraMagda/Pretty-Dice)
+  - I'm learining: Props&State, Debouncing, Router
 - [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
 - [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
 - [AirBnb Clone - Scrimba](https://github.com/AhuraMagda/airbnb-clone)  
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 
-### TypeScript (fundamentals)
+### TypeScript 
+- [Pretty Dice - In progress... ](https://github.com/AhuraMagda/Pretty-Dice)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
 
 
