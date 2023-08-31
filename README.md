@@ -14,7 +14,7 @@
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
 ### React 
-- [Pretty Dice (In progress...) ](https://github.com/AhuraMagda/Pretty-Dice)
+- <span style='color: orange;'>[Pretty Dice (In progress...) ]</span>(https://github.com/AhuraMagda/Pretty-Dice)
   - I'm learining: Props&State, Debouncing, Router
 - [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
 - [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
