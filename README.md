@@ -2,7 +2,7 @@
 
 
 ## My projects
-### Websites
+### Websites (HTML, CSS, JS)
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl)
 - [https://emanuelkulesza.pl/](https://github.com/AhuraMagda/emanuelkulesza.pl)
 - [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
@@ -23,6 +23,7 @@
 
 ### TypeScript 
 - [Pretty Dice (In progress...) ](https://github.com/AhuraMagda/Pretty-Dice)
+- [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
 
 
