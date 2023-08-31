@@ -26,7 +26,6 @@
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 
 ### TypeScript 
-- [Pretty Dice (In progress...) ](https://github.com/AhuraMagda/Pretty-Dice)
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
 
