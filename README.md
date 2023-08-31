@@ -14,7 +14,8 @@
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
 ### React 
-- 🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - Props&State, Debouncing, Router
+🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - Props&State, Debouncing, Router
+
 - [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
 - [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
 - [AirBnb Clone - Scrimba](https://github.com/AhuraMagda/airbnb-clone)  
