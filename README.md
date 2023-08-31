@@ -14,7 +14,7 @@
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
 ### React 
-- [Pretty Dice - In progress... ](https://github.com/AhuraMagda/Pretty-Dice)
+- [Pretty Dice (In progress...) ](https://github.com/AhuraMagda/Pretty-Dice)
   - I'm learining: Props&State, Debouncing, Router
 - [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
 - [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
@@ -22,7 +22,7 @@
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 
 ### TypeScript 
-- [Pretty Dice - In progress... ](https://github.com/AhuraMagda/Pretty-Dice)
+- [Pretty Dice (In progress...) ](https://github.com/AhuraMagda/Pretty-Dice)
 - [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
 
 
