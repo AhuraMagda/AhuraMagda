@@ -4,9 +4,7 @@
 
 ## My projects
 
-🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) 
-- React & TypeScript project
-- Learning and using: Props&State, Debouncing, Router
+🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript project
 
 ### Websites (HTML, CSS, JS)
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl)
