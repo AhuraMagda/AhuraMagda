@@ -4,7 +4,7 @@
 
 ## My projects
 
-🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript project
+🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript project. I'm also in the middle of Advance React Course on Scrimba.
 
 ### Websites (HTML, CSS, JS)
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl)
