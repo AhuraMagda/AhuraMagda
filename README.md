@@ -29,5 +29,4 @@
 
 
 ## Find me on
-- [CSSBattle](https://cssbattle.dev/player/ahuramagda)
 - [Codewars](https://www.codewars.com/users/AhuraMagda)
