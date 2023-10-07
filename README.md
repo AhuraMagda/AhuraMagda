@@ -4,7 +4,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 ## My projects
 
 🟠 I'm currently working on: 
-- [Tenzies & Dice ](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript & Firebase project
+- [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript & Firebase project
 - a website project
 
 
@@ -18,7 +18,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 - [Time Tracker - Frontend Mentor Junior](https://github.com/AhuraMagda/FrontendMentor-lvl2-time-tracker)
 
 ### React 
-- [Tenzies & Dice](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase
+- [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun) + TypeScript
 - [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
 - [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
