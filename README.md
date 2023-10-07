@@ -1,6 +1,5 @@
 # Magda Lubaszka • Front-end Developer
-
-
+HTML • CSS • SCSS • JavaScript • TypeScript • React
 
 ## My projects
 
