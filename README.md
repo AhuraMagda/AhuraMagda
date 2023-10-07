@@ -5,7 +5,7 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 
 🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript project. I'm also in the middle of Advance React Course on Scrimba.
 
-### Websites (HTML, CSS, JS)
+### Websites
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl)
 - [https://emanuelkulesza.pl/](https://github.com/AhuraMagda/emanuelkulesza.pl)
 - [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
