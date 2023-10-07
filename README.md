@@ -14,8 +14,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 - [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
 
 ### JavaScript 
-- [Ip Adress Tracker - Frontend Mentor Intermediate](https://ahuramagda.github.io/FrontendMentor-lvl3-ip-address-tracker/)
-- [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
+- [Ip Adress Tracker - Frontend Mentor Intermediate](https://github.com/AhuraMagda/FrontendMentor-lvl3-ip-address-tracker)
+- [Time Tracker - Frontend Mentor Junior](https://github.com/AhuraMagda/FrontendMentor-lvl2-time-tracker)
 
 ### React 
 - [Tenzies & Dice](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase
