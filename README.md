@@ -3,7 +3,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 
 ## My projects
 
-🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript project. I'm also in the middle of Advance React Course on Scrimba.
+🟠 I'm currently working on: [Pretty Dice](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript project.
+
 
 ### Websites
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl)
@@ -17,15 +18,11 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 - [Time Tracker - Frontend Mentor Junior](https://ahuramagda.github.io/time-tracker/)
 
 ### React 
+- [Tenzies & Dice (TypeScript)](https://github.com/AhuraMagda/Pretty-Dice)
+- [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
 - [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
 - [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
 - [AirBnb Clone - Scrimba](https://github.com/AhuraMagda/airbnb-clone)  
-- [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
-
-### TypeScript 
-- [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun)
-- [To do list](https://ahuramagda.github.io/To-do-list-TS/) 
-
 
 ## Find me on
 - [Codewars](https://www.codewars.com/users/AhuraMagda)
