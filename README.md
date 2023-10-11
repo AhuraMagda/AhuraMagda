@@ -4,8 +4,8 @@ HTML • CSS • SCSS • JavaScript • TypeScript • React
 ## My projects
 
 🟠 I'm currently working on: 
-- [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) - React & TypeScript & Firebase project
 - a website project
+- learning SQL
 
 
 ### Commercial websites
