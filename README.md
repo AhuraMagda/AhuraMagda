@@ -3,8 +3,7 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • SQL (learning 
 
 ## My projects
 
-🟠 I'm currently working on: 
-- a website for an event
+🟠 I'm currently working on: a website for an event
 
 ### Commercial websites
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl) + PHP
@@ -14,9 +13,6 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • SQL (learning 
 ### React 
 - [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun) + TypeScript
-- [Tenzies Game - Scrimba](https://github.com/AhuraMagda/Scrimba-Tenzies)
-- [Meme Generator - Scrimba](https://github.com/AhuraMagda/meme-generator) 
-- [AirBnb Clone - Scrimba](https://github.com/AhuraMagda/airbnb-clone)  
 
 ### JavaScript 
 - [Ip Adress Tracker - Frontend Mentor Intermediate](https://github.com/AhuraMagda/FrontendMentor-lvl3-ip-address-tracker)
