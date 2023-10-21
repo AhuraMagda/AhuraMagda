@@ -3,7 +3,7 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • SQL (learning 
 
 ## My projects
 
-🟠 I'm currently working on: a website for an event
+🟠 I'm currently working on: a website for an event using GatsbyJS
 
 ### Commercial websites
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl) + PHP
