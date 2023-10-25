@@ -1,5 +1,5 @@
 # Magda Lubaszka • Front-end Developer
-HTML • CSS • JavaScript • TypeScript • React • SCSS • SQL (learning now)
+HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS (learnig now) • SQL (basics)
 
 ## My projects
 
