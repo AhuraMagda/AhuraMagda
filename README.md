@@ -1,11 +1,12 @@
 # Magda Lubaszka • Front-end Developer
-HTML • CSS • JavaScript • TypeScript • React • SCSS
+HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS
 
 ## My projects
 
 🟠 I'm currently working on: a website for an event (GatsbyJS)
 
 ### Commercial websites
+- [https://warsawnegotiations.com/](https://github.com/AhuraMagda/warsaw-negotiation-round) + GatsbyJS + SCSS
 - [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl) + PHP
 - [https://emanuelkulesza.pl/](https://github.com/AhuraMagda/emanuelkulesza.pl)
 - [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
