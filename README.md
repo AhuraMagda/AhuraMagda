@@ -1,5 +1,5 @@
 # Magda Lubaszka • Front-end Developer
-HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS
+HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • Jest • Unit Testing
 
 ## My projects
 
@@ -12,7 +12,7 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS
 - [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
 
 ### React 
-- [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase
+- [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase + Jest Unit Tests
 - [Personal Organizer - Girls Code Fun & Qualtrics](https://github.com/AhuraMagda/MyPersonalOrganizer-GirlsCodeFun) + TypeScript
 
 ### JavaScript 
