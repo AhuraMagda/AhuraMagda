@@ -1,9 +1,7 @@
 # Magda Lubaszka • Front-end Developer
-HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • Jest • Unit Testing
+HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • Jest • Unit Testing • Git
 
 ## My projects
-
-🟠 I'm currently working on: a website for an event (GatsbyJS)
 
 ### Commercial websites
 - [https://warsawnegotiations.com/](https://github.com/AhuraMagda/warsaw-negotiation-round) + GatsbyJS + SCSS
