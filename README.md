@@ -4,10 +4,11 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • J
 ## My projects
 
 ### Commercial websites
-- [https://warsawnegotiations.com/](https://github.com/AhuraMagda/warsaw-negotiation-round) + GatsbyJS + SCSS
-- [https://djpatrykdjtomek.pl/](https://github.com/AhuraMagda/djpatrykdjtomek.pl) + PHP
-- [https://emanuelkulesza.pl/](https://github.com/AhuraMagda/emanuelkulesza.pl)
-- [https://maxicom-pc.pl/](https://github.com/AhuraMagda/maxicom-pc.pl)
+- [warsawnegotiations.com](https://github.com/AhuraMagda/warsaw-negotiation-round) + GatsbyJS + SCSS
+- [djpatrykdjtomek.pl](https://github.com/AhuraMagda/djpatrykdjtomek.pl) + PHP
+- [maxicom-pc.pl](https://github.com/AhuraMagda/maxicom-pc.pl)
+- [emanuelkulesza.pl](https://github.com/AhuraMagda/emanuelkulesza.pl)
+
 
 ### React 
 - [Dice & Tenzies](https://github.com/AhuraMagda/Pretty-Dice) + TypeScript + Firebase + Jest Unit Tests
