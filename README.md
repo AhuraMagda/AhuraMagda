@@ -4,7 +4,7 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • J
 ## My projects
 🔶currently working on: <br />
 🔸 [PEH - hair conditioner search](https://github.com/AhuraMagda/peh-app) I'm learning: react router + tailwind + JSON server <br />
-🔸 [coding game](https://github.com/AhuraMagda/codebreaking/tree/main) I'm practicing: react, useReducer
+🔸 [coding game](https://github.com/AhuraMagda/codebreaking/tree/main) I'm practicing: react, useReducer, styled-components
 
 ### Commercial websites
 - [warsawnegotiations.com](https://github.com/AhuraMagda/warsaw-negotiation-round) + GatsbyJS + SCSS
