@@ -2,8 +2,8 @@
 HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • Jest • Unit Testing • Git
 
 ## My projects
-🔶currently working on: \ 
-🔸 [PEH - hair conditioner search](https://github.com/AhuraMagda/peh-app) I'm learning: react rounter + tailwind + JSON server\
+🔶currently working on: <br />
+🔸 [PEH - hair conditioner search](https://github.com/AhuraMagda/peh-app) I'm learning: react rounter + tailwind + JSON server <br />
 🔸 [coding game](https://github.com/AhuraMagda/codebreaking/tree/main) I'm practicing: react, useReducer
 
 ### Commercial websites
