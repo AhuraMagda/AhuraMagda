@@ -1,8 +1,9 @@
 # Magda Lubaszka • Front-end Developer
-HTML • CSS • JavaScript • TypeScript • React • SCSS • GatsbyJS • Jest • Unit Testing • Git
+HTML • CSS • JavaScript • TypeScript • React • SCSS • CSS Modules • GatsbyJS • Jest • Unit Testing • Git
 
 ## My projects
 🔶currently working on: <br />
+🔸 React Course - [Zrozumieć React](https://zrozumreact.pl/) 
 🔸 [PEH - hair conditioner search](https://github.com/AhuraMagda/peh-app) React Router + Tailwind + JSON Server <br />
 🔸 [coding game](https://github.com/AhuraMagda/codebreaking/tree/main) React + useReducer + Styled-components
 
