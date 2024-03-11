@@ -3,7 +3,7 @@ HTML • CSS • JavaScript • TypeScript • React • SCSS • CSS Modules �
 
 ## My projects
 🔶currently working on: <br />
-🔸 React Course - [Zrozumieć React](https://zrozumreact.pl/) 
+🔸 React Course - [Zrozumieć React](https://zrozumreact.pl/) <br />
 🔸 [PEH - hair conditioner search](https://github.com/AhuraMagda/peh-app) React Router + Tailwind + JSON Server <br />
 🔸 [coding game](https://github.com/AhuraMagda/codebreaking/tree/main) React + useReducer + Styled-components
 
